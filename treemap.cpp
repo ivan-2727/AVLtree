@@ -3,9 +3,6 @@ using namespace std;
 using namespace std::chrono;
 using lli = long long int;
 
-bool black = true;
-bool red = false;
-
 class Vertex {
 public:
     Vertex* left;
